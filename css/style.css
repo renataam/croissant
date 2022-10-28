@@ -1,0 +1,14 @@
+body{
+    background-color: #f8e8a6;
+}
+footer{
+    text-align: center;
+    
+}
+img{
+    max-width: 100%
+}
+a{
+    color: darkred;
+    margin: 0 10px;
+}
